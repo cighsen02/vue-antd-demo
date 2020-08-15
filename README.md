@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Web site
+See [Web site](https://github.com/cighsen02/vue-antd-demo).
